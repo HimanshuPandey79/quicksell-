@@ -1,0 +1,23 @@
+/* Basic styling to get started */
+
+.App {
+  text-align: center;
+}
+
+.kanban-board {
+  display: flex;
+  gap: 20px;
+}
+
+.kanban-group {
+  flex: 1;
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+.card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+  margin: 10px 0;
+}
